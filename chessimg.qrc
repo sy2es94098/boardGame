@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>chessimg/JOJO/black/Buccirati.png</file>
+        <file>chessimg/JOJO/black/Diavolo.png</file>
+        <file>chessimg/JOJO/black/Dio.jpg</file>
+        <file>chessimg/JOJO/black/Gio.jpg</file>
+        <file>chessimg/JOJO/black/Joseph.jpg</file>
+        <file>chessimg/JOJO/black/Josuke.jpg</file>
+        <file>chessimg/JOJO/black/Jotaro.jpg</file>
+        <file>chessimg/JOJO/black/Kira.png</file>
+        <file>chessimg/JOJO/Bucciarati.png</file>
+        <file>chessimg/JOJO/card.jpg</file>
+        <file>chessimg/JOJO/cardBack.png</file>
+        <file>chessimg/JOJO/Diavolo.png</file>
+        <file>chessimg/JOJO/Dio.jpg</file>
+        <file>chessimg/JOJO/Gio.jpg</file>
+        <file>chessimg/JOJO/Joseph.jpg</file>
+        <file>chessimg/JOJO/Josuke.jpg</file>
+        <file>chessimg/JOJO/Jotaro.jpg</file>
+        <file>chessimg/JOJO/Kira.png</file>
+        <file>chessimg/back.jpg</file>
+        <file>chessimg/cannonB.png</file>
+        <file>chessimg/cannonR.png</file>
+        <file>chessimg/chariotB.png</file>
+        <file>chessimg/chariotR.png</file>
+        <file>chessimg/chessBoard.jpg</file>
+        <file>chessimg/choose.png</file>
+        <file>chessimg/elephantB.png</file>
+        <file>chessimg/elephantR.png</file>
+        <file>chessimg/guardB.png</file>
+        <file>chessimg/guardR.png</file>
+        <file>chessimg/horseB.png</file>
+        <file>chessimg/horseR.png</file>
+        <file>chessimg/kingB.png</file>
+        <file>chessimg/kingR.png</file>
+        <file>chessimg/move.png</file>
+        <file>chessimg/soldierB.png</file>
+        <file>chessimg/soldierR.png</file>
+    </qresource>
+    <qresource prefix="/mp3"/>
+</RCC>
